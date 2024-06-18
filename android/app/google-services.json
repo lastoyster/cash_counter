@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "423321148950",
+    "project_id": "cashcounter-b951f",
+    "storage_bucket": "cashcounter-b951f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:423321148950:android:08d074d1748ca51026df37",
+        "android_client_info": {
+          "package_name": "com.cashcounterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "423321148950-ovcvt46ru8gor6c7r8psa0v89a7ib7nt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cashcounterapp",
+            "certificate_hash": "b8380ba47071536746e3e97e5e50b243b7b59e1a"
+          }
+        },
+        {
+          "client_id": "423321148950-cj3mt1let1kogmqm5ch3ugtcumrle7qj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3KXYowdzjduPEFkFM3hlj7fWfVSEdh7U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "423321148950-cj3mt1let1kogmqm5ch3ugtcumrle7qj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
